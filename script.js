@@ -40,4 +40,4 @@ document
     }
 });
 
-weather.fetchWeather("Bielsko-Biała");
+weather.fetchWeather("Warsaw");
